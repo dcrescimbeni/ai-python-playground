@@ -8,9 +8,9 @@ The data used in this project can be found [here](https://www.kaggle.com/dataset
 
 ## How to Run
 
-1. Install the required Python packages: pandas, scikit-learn.
-2. Download the data from the provided link and place it in the same directory as the Python script.
-3. Run the script in a Python environment.
+1. Run `pipenv install` to install the required Python packages: pandas, scikit-learn
+2. Download the data from the provided link and place it in the same directory as the Python script under the name `tweet-sentiment.csv`.
+3. Run the script in a Python environment: `python3 sentiment-prediction.py`.
 
 ## Output
 
